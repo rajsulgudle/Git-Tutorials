@@ -1,1 +1,2 @@
-this is version two of my software
+this is version three  of my software
+today is my first Git 
